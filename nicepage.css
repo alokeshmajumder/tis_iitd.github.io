@@ -46307,6 +46307,11 @@ a.u-link.u-text-hover-color-var:hover {
   margin: -147px 465px 0 20px;
 }
 
+.u-header .u-btn-1 {
+  background-image: none;
+  padding: 0;
+}
+
 .u-header .u-text-2 {
   font-size: 1.875rem;
   font-weight: 700;
