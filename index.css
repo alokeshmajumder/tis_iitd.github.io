@@ -6,14 +6,14 @@
 }
 
 .u-section-1 .u-sheet-1 {
-  min-height: 618px;
+  min-height: 668px;
   margin-bottom: 0;
 }
 
 .u-section-1 .u-gallery-1 {
   height: 763px;
   margin-top: -185px;
-  margin-bottom: 40px;
+  margin-bottom: 60px;
 }
 
 .u-section-1 .u-carousel-indicators-1 {
@@ -23,6 +23,7 @@
 
 .u-section-1 .u-carousel-item-1 {
   margin-right: 0;
+  border-style: solid;
 }
 
 .u-section-1 .u-over-slide-1 {
@@ -32,6 +33,7 @@
 
 .u-section-1 .u-carousel-item-2 {
   margin-right: 0;
+  border-style: solid;
 }
 
 .u-section-1 .u-over-slide-2 {
@@ -41,6 +43,7 @@
 
 .u-section-1 .u-carousel-item-3 {
   margin-right: 0;
+  border-style: solid;
 }
 
 .u-section-1 .u-over-slide-3 {
@@ -50,6 +53,7 @@
 
 .u-section-1 .u-carousel-item-4 {
   margin-right: 0;
+  border-style: solid;
 }
 
 .u-section-1 .u-over-slide-4 {
@@ -59,6 +63,7 @@
 
 .u-section-1 .u-carousel-item-5 {
   margin-right: 0;
+  border-style: solid;
 }
 
 .u-section-1 .u-over-slide-5 {
@@ -68,6 +73,7 @@
 
 .u-section-1 .u-carousel-item-6 {
   margin-right: 0;
+  border-style: solid;
 }
 
 .u-section-1 .u-over-slide-6 {
@@ -100,13 +106,12 @@
   }
 
   .u-section-1 .u-sheet-1 {
-    min-height: 496px;
+    min-height: 539px;
   }
 
   .u-section-1 .u-gallery-1 {
     height: 621px;
-    margin-top: -180px;
-    margin-bottom: 55px;
+    margin-top: -152px;
   }
 
   .u-section-1 .u-carousel-control-1 {
@@ -120,13 +125,12 @@
 
 @media (max-width: 991px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 355px;
+    min-height: 448px;
   }
 
   .u-section-1 .u-gallery-1 {
     height: 479px;
-    margin-top: -144px;
-    margin-bottom: 20px;
+    margin-top: -118px;
   }
 
   .u-section-1 .u-carousel-control-1 {
@@ -140,13 +144,12 @@
 
 @media (max-width: 767px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 323px;
+    min-height: 341px;
   }
 
   .u-section-1 .u-gallery-1 {
     height: 360px;
-    margin-top: -107px;
-    margin-bottom: 55px;
+    margin-top: -89px;
   }
 
   .u-section-1 .u-carousel-control-1 {
@@ -160,11 +163,13 @@
 
 @media (max-width: 575px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 252px;
+    min-height: 280px;
   }
 
   .u-section-1 .u-gallery-1 {
     height: 284px;
+    margin-top: -54px;
+    margin-bottom: 50px;
   }
 
   .u-section-1 .u-carousel-control-1 {
