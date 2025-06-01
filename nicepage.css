@@ -46291,12 +46291,8 @@ a.u-link.u-text-hover-color-var:hover {
 
 
 /*end-variables sitestylecss*/
-.u-header .u-section-row-1 {
-  background-image: none;
-}
-
 .u-header .u-sheet-1 {
-  min-height: 269px;
+  min-height: 429px;
 }
 
 .u-header .u-image-1 {
@@ -46337,22 +46333,13 @@ a.u-link.u-text-hover-color-var:hover {
 .u-header .u-nav-4 {
   font-weight: 600;
 }
-.u-header .u-image-2 {
-  background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.15), rgba(0, 0, 0, 0.15)), url('images/IMG_0023.JPEG?rand=1e86');
-  background-position: 50% 50%;
-}
 
-.u-header .u-image-3 {
-  min-height: 185px;
-  background-image: url("images/IITD_Photo.png");
-  background-position: 50% 50%;
-  background-size: cover;
+.u-header .u-image-2 {
+  height: 160px;
+  margin-top: 0;
+  margin-bottom: 0;
 }
 @media (max-width: 1199px) {
-  .u-header .u-sheet-1 {
-    min-height: 277px;
-  }
-
   .u-header .u-image-1 {
     margin-top: 61px;
   }
@@ -46373,15 +46360,14 @@ a.u-link.u-text-hover-color-var:hover {
     margin-top: 53px;
     margin-bottom: 1px;
   }
-}
-@media (max-width: 1199px) {
-  .u-header .u-image-3 {
-    min-height: 153px;
+
+  .u-header .u-image-2 {
+    height: 160px;
   }
 }
 @media (max-width: 991px) {
   .u-header .u-sheet-1 {
-    min-height: 221px;
+    min-height: 382px;
   }
 
   .u-header .u-image-1 {
@@ -46407,15 +46393,14 @@ a.u-link.u-text-hover-color-var:hover {
     margin-bottom: 15px;
     margin-left: 15px;
   }
-}
-@media (max-width: 991px) {
-  .u-header .u-image-3 {
-    min-height: 117px;
+
+  .u-header .u-image-2 {
+    margin-bottom: 1px;
   }
 }
 @media (max-width: 767px) {
   .u-header .u-sheet-1 {
-    min-height: 225px;
+    min-height: 378px;
   }
 
   .u-header .u-image-1 {
@@ -46443,21 +46428,20 @@ a.u-link.u-text-hover-color-var:hover {
     margin-bottom: 7px;
     margin-left: 0;
   }
-}
-@media (max-width: 767px) {
-  .u-header .u-image-3 {
-    min-height: 88px;
+
+  .u-header .u-image-2 {
+    margin-bottom: 0;
   }
 }
 @media (max-width: 575px) {
   .u-header .u-sheet-1 {
-    min-height: 207px;
+    min-height: 375px;
   }
 
   .u-header .u-image-1 {
     width: 71px;
     height: 71px;
-    margin-top: 22px;
+    margin-top: 29px;
   }
 
   .u-header .u-text-1 {
@@ -46474,11 +46458,6 @@ a.u-link.u-text-hover-color-var:hover {
   .u-header .u-menu-1 {
     margin-top: 24px;
     margin-bottom: 22px;
-  }
-}
-@media (max-width: 575px) {
-  .u-header .u-image-3 {
-    min-height: 55px;
   }
 }
  .u-footer {
