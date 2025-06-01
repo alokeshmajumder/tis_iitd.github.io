@@ -46296,7 +46296,7 @@ a.u-link.u-text-hover-color-var:hover {
 }
 
 .u-header .u-sheet-1 {
-  min-height: 292px;
+  min-height: 269px;
 }
 
 .u-header .u-image-1 {
@@ -46318,7 +46318,7 @@ a.u-link.u-text-hover-color-var:hover {
 }
 
 .u-header .u-menu-1 {
-  margin: 92px auto 0;
+  margin: 69px auto 0;
 }
 
 .u-header .u-nav-1 {
@@ -46338,6 +46338,11 @@ a.u-link.u-text-hover-color-var:hover {
   font-weight: 600;
 }
 .u-header .u-image-2 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.15), rgba(0,0,0,0.15)), url('images/IMG_0023.JPEG?rand=1e86');
+  background-position: 50% 50%;
+}
+
+.u-header .u-image-3 {
   min-height: 185px;
   background-image: url("images/IITD_Photo.png");
   background-position: 50% 50%;
@@ -46345,7 +46350,7 @@ a.u-link.u-text-hover-color-var:hover {
 }
 @media (max-width: 1199px) {
   .u-header .u-sheet-1 {
-    min-height: 297px;
+    min-height: 277px;
   }
 
   .u-header .u-image-1 {
@@ -46365,12 +46370,13 @@ a.u-link.u-text-hover-color-var:hover {
   }
 
   .u-header .u-menu-1 {
-    margin-top: 74px;
+    margin-top: 53px;
+    margin-bottom: 1px;
   }
 }
 @media (max-width: 1199px) {
-  .u-header .u-image-2 {
-    min-height: 179px;
+  .u-header .u-image-3 {
+    min-height: 153px;
   }
 }
 @media (max-width: 991px) {
@@ -46403,8 +46409,8 @@ a.u-link.u-text-hover-color-var:hover {
   }
 }
 @media (max-width: 991px) {
-  .u-header .u-image-2 {
-    min-height: 137px;
+  .u-header .u-image-3 {
+    min-height: 117px;
   }
 }
 @media (max-width: 767px) {
@@ -46439,8 +46445,8 @@ a.u-link.u-text-hover-color-var:hover {
   }
 }
 @media (max-width: 767px) {
-  .u-header .u-image-2 {
-    min-height: 103px;
+  .u-header .u-image-3 {
+    min-height: 88px;
   }
 }
 @media (max-width: 575px) {
@@ -46471,8 +46477,8 @@ a.u-link.u-text-hover-color-var:hover {
   }
 }
 @media (max-width: 575px) {
-  .u-header .u-image-2 {
-    min-height: 80px;
+  .u-header .u-image-3 {
+    min-height: 55px;
   }
 }
  .u-footer {
